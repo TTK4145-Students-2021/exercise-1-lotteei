@@ -2,7 +2,8 @@ Exercise 1 - Theory questions
 -----------------------------
  
  ### What is the difference between concurrency and parallelism?
- > *Your answer here*
+ > Concurrency is the act of managing and running multiple computations at the same time, but not simultaneously, which means that multiple tasks can not be executed at the same time. The control switches between computations. Parallelism is the act of running multiple computations simultaneously. More than one computation could be running at the same time. This requires for example a multiple processor.
+
  
  ### Why have machines become increasingly multicore in the past decade?
  > *Your answer here*
