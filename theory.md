@@ -14,7 +14,7 @@ Exercise 1 - Theory questions
  
  ### Does creating concurrent programs make the programmer's life easier? Harder? Maybe both?
  (Come back to this after you have worked on part 4 of this exercise)
- > *Your answ
+ > It might, but personally I feel like it makes my life harder. By doing this you have to check that the program runs right, and that the order is right. If one thing happens in parallell with another, it might pop up some bugs and the order of operations can get messed up. 
  
  ### What is the conceptual difference between threads and processes?
  > A process is a program in execution, and a thread is a segment of a process. 
